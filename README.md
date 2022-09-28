@@ -1,5 +1,7 @@
 <h2 align="center">Hello there, I'm Ryan 👋</h2>
 
+<br><br>
+
 <p align="left">I'm a Java enthusiast who comes from the Netherlands 🙂
 <br>I love making people happy ❤
 
