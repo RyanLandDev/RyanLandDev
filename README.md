@@ -7,6 +7,8 @@
 
 <p>Check out one of my projects: <a href="https://github.com/RyanLandDev/Colossus">Colossus</a>, a fully fledged <a href="https://github.com/DV8FromTheWorld">JDA</a> framework!
 
+<p>I'm also a freelancer at <a href="https://orbitalstudios.net">Orbital Studios</a>.
+
 <br><br><br>
 
 <h3 align="center"> Feel free to send me a message! 📩</h4>
