@@ -7,7 +7,7 @@
 
 <p>Check out one of my projects: <a href="https://github.com/RyanLandDev/Colossus">Colossus</a>, a fully fledged <a href="https://github.com/DV8FromTheWorld">JDA</a> framework!
 
-<p>I'm also a freelancer at <a href="https://orbitalstudios.net">Orbital Studios</a> and <a href="https://discord.gg/candorservices">Candor Services</a>.
+<p>I'm also a freelancer at <a href="https://orbitalstudios.net">Orbital Studios</a>, <a href="https://discord.gg/devroom">DevRoom</a> and <a href="https://discord.gg/candorservices">Candor Services</a>.
 
 <br><br><br>
 
