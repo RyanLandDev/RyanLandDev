@@ -1,6 +1,6 @@
 <h2 align="center">Hello there, I'm Ryan 👋</h2>
 
-<p>--- my Discord account has been Disabled again... ---</p>
+<p>--- my Discord account has been disabled again... ---</p>
 
 <br><br>
 
