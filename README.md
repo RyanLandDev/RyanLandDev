@@ -1,9 +1,10 @@
 <h2 align="center">Hello there, I'm Ryan 👋</h2>
 
+<p>--- my Discord account has been Disabled again... ---</p>
+
 <br><br>
 
 <p align="left">I'm a Java enthusiast who comes from the Netherlands 🙂
-<br>I love making people happy ❤
 
 <p>Check out one of my projects: <a href="https://github.com/RyanLandDev/Colossus">Colossus</a>, a fully fledged <a href="https://github.com/DV8FromTheWorld">JDA</a> framework!
 
