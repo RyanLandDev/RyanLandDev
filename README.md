@@ -1,6 +1,6 @@
 <h2 align="center">Hello there, I'm Ryan 👋</h2>
 
-<p>--- my Discord account has been disabled again... ---</p>
+<p>--- my Discord account has been disabled again... new one: Ryan_#0097 ---</p>
 
 <br><br>
 
@@ -13,4 +13,4 @@
 <br><br><br>
 
 <h3 align="center"> Feel free to send me a message! 📩</h4>
-<p align="center"><b>Discord:</b> ryan_#2156</p>
+<p align="center"><b>Discord:</b> Ryan_#0097</p>
