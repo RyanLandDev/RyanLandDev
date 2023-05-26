@@ -2,6 +2,8 @@
 
 <p>--- my Discord account has been disabled again... new one: Ryan_#0097 ---</p>
 
+DevRoom verification
+
 <br><br>
 
 <p align="left">I'm a Java enthusiast who comes from the Netherlands 🙂
