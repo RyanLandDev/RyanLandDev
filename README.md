@@ -13,4 +13,4 @@
 <br><br><br>
 
 <h3 align="center"> Feel free to send me a message! 📩</h4>
-<p align="center"><b>Discord:</b> Ryan_#0097</p>
+<p align="center"><b>Discord:</b> ryan_dev</p>
