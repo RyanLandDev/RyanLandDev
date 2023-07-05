@@ -1,8 +1,6 @@
 <h2 align="center">Hello there, I'm Ryan 👋</h2>
 
-<p>--- my Discord account has been disabled again... new one: Ryan_#0097 ---</p>
-
-DevRoom verification
+<p>--- my Discord account has been disabled again... new one: ryan_dev ---</p>
 
 <br><br>
 
