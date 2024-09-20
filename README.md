@@ -1,14 +1,13 @@
-<h2 align="center">Hello there, I'm Ryan 👋</h2>
+<h2 align="center">Ryan</h2>
 
-<p align="left">I'm a Java enthusiast who comes from the Netherlands 🙂
+<p align="left">Hello! I'm a passionate and experienced Java developer from the Netherlands. I currently specialize in Discord bots.  
+<br>My website: <a href="https://ryanland.dev">ryanland.dev</a>
 
-<p>Here is my website: <a href="https://ryanland.dev">ryanland.dev</a></p>
+I have worked on a large amount of projects throughout the years, however most of them are private.
+One of my public projects is <a href="https://github.com/RyanLandDev/Colossus">Colossus</a>, a fully fledged <a href="https://github.com/DV8FromTheWorld">JDA</a> framework.
 
-<p>Check out one of my projects: <a href="https://github.com/RyanLandDev/Colossus">Colossus</a>, a fully fledged <a href="https://github.com/DV8FromTheWorld">JDA</a> framework!
+<p>I'm also active as a freelancer at <a href="https://premierstudios.net">Premier Studios</a>, <a href="https://devroomteam.com">DevRoom</a>, <a href="https://arcanestudios.co">Arcane Studios</a>, <a href="https://discord.gg/candorstudios">Candor Studios</a> and <a href="https://rollerite.com">Rollerite</a>.
 
-<p>I'm also a freelancer at <a href="https://orbitalstudios.net">Orbital Studios</a>, <a href="https://discord.gg/devroom">DevRoom</a> and <a href="https://discord.gg/candorservices">Candor Services</a>.
+<br><br>
 
-<br><br><br>
-
-<h3 align="center"> Feel free to send me a message! 📩</h4>
-<p align="center"><b>Discord:</b> ryandev.</p>
+<p align="center"><b>Interested in working with me? Contact me on Discord:</b> ryandev.</p>
