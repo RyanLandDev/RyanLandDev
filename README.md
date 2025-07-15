@@ -1,5 +1,5 @@
 <h2 align="center">Ryan </h2>
-<p align="center"> <strong>Full-stack Java Developer</strong> from the Netherlands
+<p align="center"> <strong>Full-stack Developer</strong> from the Netherlands
   <br> Specializing in high-quality backend systems, Discord bots, and web applications. </p>
 
   <br>
